@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DownloadButton</string>
+    <string name="Download">Download Audio File</string>
+    <string name="view">View File</string>
+</resources>
